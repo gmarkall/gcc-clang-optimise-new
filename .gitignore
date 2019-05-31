@@ -1,0 +1,5 @@
+gcc-test
+gcc-test2
+clang-test
+clang-test2
+*.o
